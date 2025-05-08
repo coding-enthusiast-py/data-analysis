@@ -23,9 +23,6 @@ https://api.example.com/bbg/xyz789
 
 Ensure the URLs return JSON responses in the following structure:
 
-json
-Copy
-Edit
 {
   "fields": {
     "field": ["PX_LAST", "BID", "ASK"]
